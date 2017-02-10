@@ -8,10 +8,15 @@
 Cocktail.create(name: "Mojito")
 Cocktail.create(name: "Gin & Tonic")
 Cocktail.create(name: "White Russian")
+Cocktail.create(name: "Fizzinez")
 
 Ingredient.create(name: "lemon")
 Ingredient.create(name: "ice")
 Ingredient.create(name: "mint leaves")
+Ingredient.create(name: "rhum")
+Ingredient.create(name: "gin")
+Ingredient.create(name: "tonic")
+Ingredient.create(name: "vodka")
 
 
 
